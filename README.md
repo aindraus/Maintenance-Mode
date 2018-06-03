@@ -17,7 +17,7 @@ You can set a password, and enable visitors to view the front-end website by ent
 ### Multi-Templates
 Enabling the usage of pre-designed templates (Under Construction, Maintenance Mode, Will Be Back soon), and also allowing users to create custom templates similar to wordpress page template functionality.
 
-### Stay Up To Date From
+### Stay Up To Date Form
 Email marketing software integration (i.e. MailChimp), Users can sign up to your newsletter.
 
 
