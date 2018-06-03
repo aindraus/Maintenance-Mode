@@ -3,7 +3,7 @@ This WordPress Plugin allows you to put the website under maintenance mode and p
 
 This plugin, is useable in it current form, and will be updated along the way, feel free to fork or contribute. I am planning on making it an ongoing project and maybe submit it to the plugin directory as a free alternative to current premium plugins.
 
-# Current Features
+## Current Features
 ### Maintenance Mode Toggle (on/off)
 Enable and Disabled Maintenance mode, so you can leave the plugin active at all times.
 
@@ -13,7 +13,7 @@ Users can still access wp-admin or whatever the login link is, once logged in as
 ### Allow Admin to Set a Frontend Password
 You can set a password, and enable visitors to view the front-end website by entering in the password.
 
-# Planned Features
+## Planned Features
 ### Multi-Templates
 Enabling the usage of pre-designed templates (Under Construction, Maintenance Mode, Will Be Back soon), and also allowing users to create custom templates similar to wordpress page template functionality.
 
