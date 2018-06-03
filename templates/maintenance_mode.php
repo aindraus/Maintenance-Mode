@@ -3,7 +3,8 @@
 *   Maintenance Page Template - Default
 */
 if(isset($_POST['visitor_password'])){
-    $_SESSION['website_password'] = $_POST['visitor_password'];
+    $website_password = htmlspecialchars($_POST['visitor_password']);
+    $_SESSION['website_password'] = $website_password;
     header("Location: " . $_SERVER['REQUEST_URI']);
 }
 
